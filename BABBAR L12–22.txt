@@ -1,0 +1,73 @@
+BABBAR L12–22
+       ↓
+JAVA COLLECTIONS
+Babbar L23–25
+       ↓
+SORTING
+GFG L8
+GFG L14
+GFG L15
+Babbar L77
+       ↓
+BINARY SEARCH
+GFG L9
+GFG L33
+       ↓
+2D ARRAYS
+GFG L11
+       ↓
+HASHING
+GFG L27–28
+       ↓
+TWO POINTERS
+Other
+       ↓
+SLIDING WINDOW
+Other
+       ↓
+RECURSION
+GFG L12–13
+Babbar L54–55
+       ↓
+DIVIDE & CONQUER
+Merge + Quick Sort
+       ↓
+LINKED LIST
+GFG L17–18
+Babbar L78–80
+       ↓
+STACK
+GFG L19
+       ↓
+QUEUE
+GFG L20
+       ↓
+BINARY TREE
+GFG L21–22
+       ↓
+BST
+GFG L23–24
+       ↓
+HEAP
+GFG L25–26
+       ↓
+BIT MANIPULATION
+Babbar L26 + GFG L29
+       ↓
+BACKTRACKING
+GFG L34
+       ↓
+GRAPH
+GFG L35
++ COPS Graph playlist
+       ↓
+GREEDY
+Other
+       ↓
+DYNAMIC PROGRAMMING
+GFG L30–32
+       ↓
+TRIE
+Other
+       ↓
+ADVANCED DSA
