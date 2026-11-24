@@ -19,7 +19,7 @@ public class q42OverloadingAndVarargs {
         return n * n;
     }
 
-    // Overload 2: 2 int parameters (Power)
+    // Overload 2:2 int parameters (Power)
     public static int calculate(int base, int exp) {
         int result = 1;
         for (int i = 0; i < exp; i++) {
