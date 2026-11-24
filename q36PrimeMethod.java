@@ -1,10 +1,10 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class q36PrimeMethod {
     public static void checkPrime(int n) {
         if (n <= 1) {
             System.out.println(n + " is Not Prime");
-            return; // Exits the method immediately (no value returned because return type is void)
+            return; //Exits the method immediately (no value returned because return type is void)
         }
 
         for (int i = 2; i * i <= n; i++) {
