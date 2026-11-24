@@ -36,7 +36,7 @@ public class q37PreMethodsRevision {
         }
         System.out.println("Sum of digits of 1234: " + sum);
 
-        // 5.do-while loop (Runs at least once)
+        // 5. do-while loop (Runs at least once)
         int attempts = 0;
         do {
             attempts++;
