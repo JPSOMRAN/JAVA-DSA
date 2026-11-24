@@ -16,6 +16,7 @@ public class q40LabeledLoopsAndNumbers {
         }
         System.out.println(num + " is Strong Number? " + (factorialSum == num));
 
+        
         // 2. Labeled break to exit nested loops immediately
         System.out.println("Searching pair (i, j) where i + j == 5:");
         searchLoop:
