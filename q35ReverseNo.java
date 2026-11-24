@@ -11,7 +11,7 @@ public class q35ReverseNo {
                 rev = rev * 10 + digit;
                 n = n / 10;
             }
-            // System.out.println(digit); // ERROR: 'digit' cannot be resolved outside the loop
+            // System.out.println(digit); // ERROR: "digit" cannot be resolved outside the loop
             System.out.println("Reversed: " + rev);
         }
     }
