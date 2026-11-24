@@ -1,11 +1,11 @@
 public class q41ModularMethods {
     public static void main(String[] args) {
-        // 1. Pass-by-value test
+        // 1.Pass-by-value test
         int score = 50;
         boostScore(score);
         System.out.println("Score in main after method call: " + score);
 
-        // 2. Clean modular method calls
+        // 2.Clean modular method calls
         printPrimesInRange(10, 30);
     }
 
