@@ -10,7 +10,7 @@ public class q38TypePromotionAndTernary {
         System.out.println("Max Int: " + max);
         System.out.println("Max Int + 1 (Overflow): " + (max + 1));
 
-        // 3. Nested Ternary Operator
+        // 3. The Nested Ternary Operator
         int temp = 34;
         String weather = (temp > 35) ? "Hot" : (temp >= 20) ? "Pleasant" : "Cold";
         System.out.println("Temperature " + temp + "°C is: " + weather);
