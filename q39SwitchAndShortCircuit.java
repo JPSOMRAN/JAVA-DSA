@@ -8,7 +8,7 @@ public class q39SwitchAndShortCircuit {
             System.out.println("Safely skipped division by zero!");
         }
 
-        // 2. Switch expression for days in a month
+        // 2.Switch expression for days in a month
         int month = 2;
         int year = 2024;
 
